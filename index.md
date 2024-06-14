@@ -1,8 +1,8 @@
-## Portfolio
+## Selected projects in data science, machine learning, and NLP 
 
 ---
 
-### Selected projects in data science, machine learning, and NLP 
+### 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
