@@ -1,10 +1,9 @@
 title: Joseph (AJ) Horch # your name (or website title) here
 logo: "/images/utah_headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  As a Data Scientist with a Master’s degree in Data Science and significant experience in financial journalism, I leverage AI, cutting-edge technologies, and predictive analytics to develop innovative solutions that uncover actionable insights. My background enables effective problem-solving, adaptability and communication, which are essential for making data-driven decisions in diverse sectors.
-  Second description 
-  <br><br>
+  As a Data Scientist with a Master’s degree in Data Science and significant experience in financial journalism, I leverage AI, cutting-edge technologies, and predictive analytics to develop innovative solutions that uncover 
+  actionable insights. My background enables effective problem-solving, adaptability and communication, which are essential for making data-driven decisions in diverse sectors.
+  
   <a href="https://www.linkedin.com/in/josephhorch/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
