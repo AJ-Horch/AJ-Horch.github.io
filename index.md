@@ -2,9 +2,12 @@
 
 ---
 
-### 
+### Forecasting NYC rat sightings
 
-[Project 1 Title](/sample_page)
+Employed SARIMA to forecast rat sightings across NYC neighbourhoods. Identified what neighbourhoods should expect more sightings, resulting in actionable public policy 
+considerations to reduce sightings.
+
+[](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
