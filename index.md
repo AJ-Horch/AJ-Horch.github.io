@@ -7,6 +7,10 @@
 Employed SARIMA to forecast rat sightings across NYC neighbourhoods. Identified what neighbourhoods should expect more sightings, resulting in actionable public policy 
 considerations to reduce sightings.
 
+<img src="images/2025_predictions.png?raw=true"/>
+
+[View code on Colab](https://colab.research.google.com/drive/1j-ap6feSFEi3hifDkVdFcVZO8UpZ7vMl#scrollTo=Y8uYR05i1hYS)
+
 [](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
