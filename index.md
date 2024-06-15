@@ -34,6 +34,7 @@ supervised algorithms. These algorithms were used to create new playlists. The f
 necessary and hyperparameters were tuned to get the best results
 
 [View code on Github](https://github.com/AJ-Horch/spotify_analysis)
+
 ---
 ### MLP & SVM optimization for Classification
 This project intends to present a critical and even-handed evaluation of two algorithms' performance in a supervised classification task on Cardiotocography records from fetuses. The two algorithms compared are Multilayer Perceptron (MLP) and Support Machine Vector(SVM). Multiply experiments were conducted on each model, with differing hyperparameters in a grid search. The test of the top models were evaluated and compared using confusion matrices and Receiver Operation Curves. This project required using PyTorch and Sci-Key Learn.
@@ -53,6 +54,7 @@ Focusing on data analyst and scientist roles, this project explores top-paying j
 - What are the most optimal skills to learn
 
 [View code on Github](https://github.com/AJ-Horch/SQL_capstone_project)
+
 ---
 ### In progress
 
