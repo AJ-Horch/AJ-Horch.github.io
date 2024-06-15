@@ -25,8 +25,10 @@ Actionable insights include sites for new bike stations and bike redistribution.
 <img src="images/flows_btw_stations.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### MLP & SVM optimization for Classification
+This project intends to present a critical and even-handed evaluation of two algorithms' performance in a supervised classification task on Cardiotocography records from fetuses. The two algorithms compared are Multilayer Perceptron (MLP) and Support Machine Vector(SVM). Multiply experiments were conducted on each model, with differing hyperparameters in a grid search. The test of the top models were evaluated and compared using confusion matrices and Receiver Operation Curves. This project required using PyTorch and Sci-Key Learn.
+
+
 
 ---
 
