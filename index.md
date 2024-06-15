@@ -13,11 +13,12 @@ considerations to reduce sightings.
 
 [View code on Colab](https://colab.research.google.com/drive/1j-ap6feSFEi3hifDkVdFcVZO8UpZ7vMl#scrollTo=Y8uYR05i1hYS)
 
-[](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Spatial temporal analysis of bike sharing
+
+Primarily using the Python library Folium, spatial temporal visualizations were analyzed to discover how commuters use Chicago’s public bike-sharing scheme. 
+Actionable insights include sites for new bike stations and bike redistribution. 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
