@@ -19,6 +19,8 @@ considerations to reduce sightings.
 Primarily using the Python library Folium, spatial temporal visualizations were analyzed to discover how commuters use Chicago’s public bike-sharing scheme. 
 Actionable insights include sites for new bike stations and bike redistribution. 
 
+<img src="images/heatmap.png?raw=true"/>
+
 <img src="images/heatmap_between_stations.png?raw=true"/>
 
 <img src="images/flows_btw_stations.png?raw=true"/>
